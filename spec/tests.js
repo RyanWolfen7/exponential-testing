@@ -1,4 +1,5 @@
 const Expect = require("../lib/Expect")
+
 console.log("Expects 1 to equal 1")
 new Expect(1).toEqual(1)
 
