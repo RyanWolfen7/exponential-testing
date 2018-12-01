@@ -55,3 +55,7 @@ console.log("--------------------")
 console.log("Expects 1 to equal 1")
 expect(1).toEqual(1)
 `````
+
+## Contributing
+
+Feel Free to add to, adjust, or completely reconfigure this any way you see fir. This is mostly just a showcase for our skills with Test Driven Development, but if you feel compelled to make our frame work more robust for this repo and submit a pull request.
